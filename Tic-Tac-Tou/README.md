@@ -1,0 +1,1 @@
+You are a software developer and have developed an application that allows users to read a file on the linux system. Suppose a user reads a file using the application and then modifies the file before the application completes the read operation. Can this manipulation result in the application reading a different file than the intended ones? Do you know what is TOCTOU?
