@@ -1,0 +1,2 @@
+Suppose you work as a security consultant for a company that uses a custom-designed electronic lock system to secure their sensitive data center. The lock system is controlled by an algorithm that uses a super secure password. However, the company has lost the password, and they need your help to recover it using the given algorithm.
+Note: Flag format is flag{password}
