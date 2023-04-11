@@ -1,0 +1,7 @@
+The Cyber Crime Investigation Unit (CCIU) of a local police department has received a report from a large financial institution regarding a potential cyber attack on their systems. The financial institution's internal security team had detected suspicious activity on their servers, and they suspect that the attackers may have gained unauthorized access to sensitive customer data.<br>
+<br>
+The CCIU immediately launches an investigation into the matter. Their first step is to secure the affected servers and preserve any evidence that may be relevant to the case. They also interview the financial institution's security team to gather more information about the attack and its potential impact.<br>
+<br>
+Through their initial investigation, the CCIU determines that the attackers likely gained access to the financial institution's network by exploiting a vulnerability in their web application. The attackers were then able to escalate their privileges and access sensitive customer data, including names, addresses, social security numbers, and bank account information.<br>
+<br>
+The CCIU is able to identify the IP addresses used by the attackers and a suspicious exe file. It is suspected that this application might have some clues about the attackers but the application is password protected. You are a member of CCIU and your task is to break the authentication logic of the program and find the clues.
