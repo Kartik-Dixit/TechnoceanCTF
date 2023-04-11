@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+72:26:73:23:D7:67, 2023-04-09 01:18:33, 2023-04-09 01:18:57,  1,  65, WPA2, CCMP, PSK, -18,      143,     1575,   0.  0.  0.  0,  17, Can gou get flag?, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+D8:C0:A6:18:30:0D, 2023-04-09 01:18:33, 2023-04-09 01:18:57, -64,     2891, 72:26:73:23:D7:67,Can gou get flag?
+
