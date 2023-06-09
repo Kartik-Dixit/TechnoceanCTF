@@ -1,0 +1,4 @@
+flag{763abc75cf9c87cd3d99bdb05fe01b1b}
+
+
+flag{0ld_m4nsi0ns_4r3_4w3s0m3}
